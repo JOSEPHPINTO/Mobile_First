@@ -9,7 +9,7 @@
     /*Colores*/
     --bitcoin-orange:#f7931A;
     --soft-orange: #ffe9d5;
-    --secundary-blue: #1a9af7;
+    --secundary-blue: #0f588e ;
     --soft-blue: #E7F5FF;
     --warm-black: #201E1C;
     --black: #282623;
@@ -132,7 +132,7 @@ main {
     font-size: 1.4rem;
     font-weight: 500;
     line-height: 1.6rem;
-    color:#757575;
+    color:#2c1c1c;
 
 }
 .main-currency-table {
@@ -173,7 +173,7 @@ main {
     font-size: 1.6rem;
     font-weight:500 ;
     line-height: 1.9rem;
-    color: var(--grey);
+    color: #2c1c1c;
     background-color:var(--just--white);
  
 } 
@@ -193,7 +193,7 @@ main {
     font-size: 1.4rem;
     font-weight: normal;
     line-height: 1.7rem;
-    color: #757575;
+    color: #2c1c1c;
 
 }
 .currency-table--container .down {
@@ -256,7 +256,7 @@ main {
     font-size: 1.6rem;
     font-weight:500 ;
     line-height: 1.9rem;
-    color: var(--grey);
+    color: #2c1c1c;
     background-color:var(--just--white);
 }
 /*----------------------------------------------------------*/
@@ -297,7 +297,7 @@ background: var(--warm-black);
     margin-bottom: 20px;
     font-size: 1.4rem;
     font-weight: 500;
-    color: #808080;
+    color: #8e8e8e;
 }
 
 .product-detail--card {
